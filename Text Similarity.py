@@ -1,9 +1,14 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 12 21:02:38 2020
 
-@author: Admin
-"""
+
+# =============================================================================
+# Objective : Find sentence similarity or inference 
+# Requirements
+# Glove data used : https://www.kaggle.com/devjyotichandra/glove6b50dtxt
+# 
+# Spacy packages
+#   python -m spacy download en_core_web_sm (Not used)
+#   python -m spacy download en_core_web_lg
+# =============================================================================
 
 # =============================================================================
 # Cosine similarity
